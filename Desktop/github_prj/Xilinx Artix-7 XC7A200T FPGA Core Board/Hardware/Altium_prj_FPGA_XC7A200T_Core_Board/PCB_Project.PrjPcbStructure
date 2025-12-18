@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=BTB_Connector_H.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BTB_Connector_H.schdoc|FileName=Clock.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BTB_Connector_H.schdoc|FileName=DDR3.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BTB_Connector_H.schdoc|FileName=FPGA.schdoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BTB_Connector_H.schdoc|FileName=LED_JTAG.schdoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=BTB_Connector_H.schdoc|FileName=Power1.schdoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BTB_Connector_H.schdoc|FileName=Power2.schdoc|SheetNumber= 
