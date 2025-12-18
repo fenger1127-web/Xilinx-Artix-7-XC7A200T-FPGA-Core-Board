@@ -6,8 +6,8 @@
 ![EDA](https://img.shields.io/badge/EDA-EasyEDA%2FKiCad-green)
 
 <div align="center">
-  <img src="Images/Board_Topview.png" alt="Board_Topview" width="600"/>
-  <img src="Images/Board_BottomView.png" alt="Board_BottomView" width="600"/>
+  <img src="Xilinx Artix-7 XC7A200T FPGA Core Board/Images/Board_Topview.png" alt="Board_Topview" width="600"/>
+  <img src="Xilinx Artix-7 XC7A200T FPGA Core Board/Images/Board_BottomView.png" alt="Board_BottomView" width="600"/>
   <br>
 </div>
 
